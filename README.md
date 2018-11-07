@@ -1,4 +1,4 @@
-# eligibility-rules-server
+# WIC eligibility rules
 
 A Django Rest Framework prototype implementation of the eligibility rules
 service postulated at
