@@ -1,4 +1,5 @@
 # WIC eligibility rules
+[![CircleCI](https://circleci.com/gh/18F/wic_rules.svg?style=svg)](https://circleci.com/gh/18F/wic_rules)
 
 A Django Rest Framework prototype implementation of the eligibility rules
 service postulated at
