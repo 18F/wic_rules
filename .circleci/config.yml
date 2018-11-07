@@ -52,8 +52,6 @@ jobs:
           command: |
             . venv/bin/activate
             pytest --cov=rules_server rules_server/tests
-            codeclimate-test-reporter
-            cd ..
 
       - store_artifacts:
           path: test-reports
